@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "create-prod": "ng build --prod --base-href /curriculum/"
+    "create-prod": "ng build --prod --base-href /viananicolas/"
   },
   "private": true,
   "dependencies": {
